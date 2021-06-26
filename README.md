@@ -4,7 +4,7 @@ Just to get this out of the way, this repository is not created by the iRShell T
 
 I am trying to make an entire repository full of iRShell Versions.
 
-Feel Free to commit
+Feel Free to make a Pull request and add a few more files
 
 ## List of Stuff
 
